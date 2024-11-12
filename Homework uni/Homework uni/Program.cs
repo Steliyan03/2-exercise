@@ -1,4 +1,6 @@
-﻿namespace Homework_uni
+using System;
+
+namespace Homework_uni
 {
     internal class Program
     {
